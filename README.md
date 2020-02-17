@@ -1,27 +1,27 @@
 # A03
-GIT
+GIT: open source program that tracks the user's changes in text files
 
-GITHUB
+GITHUB: internet based version control system
 
-Repository
+Repository: where all the files are stored, and it records the history of the files
 
-Clone
+Clone: copy of a repository that is saved on your computer
 
-Commit
+Commit: saves the changes made to a file and the user is able to include comments to help keep track of the changes
 
-Push
+Push: sending the changes you made to a remote repository
 
-Pull
+Pull: merges the changes that you and another user have made and updates the changes in your device as well as in your repository
 
-Branch
+Branch: version of a repository that doesn't affect the master branch
 
-Merge
+Merge: applies the changes that you've made in one branch to another branch and it can be done through a pull command
 
-Merge Conflict
+Merge Conflict: occurs when two users are making changes to a file at the same time and Git doesn't know which changes to commit
 
-Fetch
+Fetch: gets the changes from an online repository and doesn't merge the changes
 
-Remote
+Remote: version that is hosted on a server and is able to connect to local clones
 
 # Directions
 Download Git from the official website: https://git-scm.com/downloads. 
