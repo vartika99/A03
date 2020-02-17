@@ -40,3 +40,6 @@ Commit the changes to Git by doing VCS > Git > Commit File. Double check that th
 Share the project on GitHub by doing VCS > Import into Version Control > Share on GitHub.
 
 # References
+https://help.github.com/en/github/getting-started-with-github/github-glossary
+
+https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
