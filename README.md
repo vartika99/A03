@@ -1,4 +1,5 @@
 # A03
+# Definitions
 GIT: open source program that tracks the user's changes in text files
 
 GITHUB: internet based version control system
